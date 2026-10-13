@@ -1,6 +1,6 @@
 #profile-title: 🌿 Травка VPN
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=115211829248; total=0; expire=1788739200
+#subscription-userinfo: upload=0; download=0; total=0; expire=1991088000
 #profile-web-page-url: https://TravkaVPNbot.t.me
 
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@ember.datanexi.store:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ember.datanexi.store&fp=firefox&pbk=irnW7-3RKbH3SLv-RrPR27DQTLiIV8GYj2N8CRVgCBQ&sid=c7e7592543e1fe96#%F0%9F%87%AB%F0%9F%87%B7%20%D0%9E%D0%A2%D0%91%D0%9E%D0%A0%D0%9D%D0%AB%D0%95%20%F0%9F%8C%BF1
